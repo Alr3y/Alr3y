@@ -1,16 +1,32 @@
 ## Hi there 👋
+# Aldi Renaldi
 
-<!--
-**Alr3y/Alr3y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with 4+ years of experience developing and maintaining enterprise hospitality management systems.
 
-Here are some ideas to get you started:
+## Core Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- VB.NET
+- ASP.NET Core
+- SQL Server
+- RESTful API Development
+- Query Optimization
+- Dependency Injection (DI)
+- SOLID Principles
+
+## Industry Experience
+
+- Hospitality Management Systems
+- Hotel Reservation Systems
+- Golf Management Systems
+- Enterprise Software Development
+
+## Current Role
+
+Software Engineer (.NET Full Stack)
+PT Realta Chakradarma (Part of Total Specific Solutions Group)
+
+## Certifications
+
+- Microsoft Learn – ASP.NET Core Blazor Web Apps
+- Microsoft Learn – Build a Containerized Web Application with Docker
